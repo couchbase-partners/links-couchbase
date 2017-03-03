@@ -2,7 +2,10 @@
 
 * [Landing Page](https://www.couchbase.com/partners/amazon)
 * Documentation - [AWS Marketplace](https://developer.couchbase.com/documentation/server/current/install/deployment-aws.html)
-* [Cloud Formation](https://github.com/couchbase/integration/tree/master/Amazon)
+
+## Cloud Formation
+* https://github.com/couchbase-partners/couchbase-amazon-cloud-formation
+* https://github.com/couchbase/integration/tree/master/Amazon
 
 ## Marketplace Offers
 * [AWS Marketplace: Couchbase](https://aws.amazon.com/marketplace/seller-profile?id=1a064a14-5ac2-4980-9167-15746aabde72)
