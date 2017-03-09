@@ -6,7 +6,7 @@
 ## Cloud Formation
 * https://github.com/couchbase-partners/couchbase-amazon-cloud-formation
 * https://github.com/couchbase/integration/tree/master/Amazon
-* https://github.com/tleyden/build/blob/master/scripts/jenkins/mobile/ami/README-ENDUSER.md#launch-sync-gateway--sync-gateway-accelerator--couchbase-server
+* https://github.com/tleyden/build/blob/master/scripts/jenkins/mobile/ami/README-ENDUSER.md
 
 ## Marketplace Offers
 * [AWS Marketplace: Couchbase](https://aws.amazon.com/marketplace/seller-profile?id=1a064a14-5ac2-4980-9167-15746aabde72)
