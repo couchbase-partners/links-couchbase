@@ -3,7 +3,7 @@
 * [Landing Page](https://www.couchbase.com/partners/amazon)
 * Documentation - [AWS Marketplace](https://developer.couchbase.com/documentation/server/current/install/deployment-aws.html)
 
-## AMI and Cloud Formation
+## AMI and Cloud Formation (CFn)
 * https://github.com/couchbase-partners/couchbase-amazon-cloud-formation
 * https://github.com/couchbase/integration/tree/master/Amazon
 * https://github.com/tleyden/build/blob/master/scripts/jenkins/mobile/ami/README-ENDUSER.md
