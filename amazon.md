@@ -5,6 +5,7 @@
 
 ## AMI and Cloud Formation (CFn)
 * https://github.com/couchbase-partners/couchbase-amazon-cloud-formation
+* https://github.com/couchbase-guides/couchbase-amazon-cli
 * https://github.com/couchbase/integration/tree/master/Amazon
 * https://github.com/tleyden/build/blob/master/scripts/jenkins/mobile/ami/README-ENDUSER.md
 * https://github.com/sandipnd/couchbase-ami/
