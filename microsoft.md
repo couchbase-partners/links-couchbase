@@ -4,8 +4,6 @@
 * [Documentation](https://developer.couchbase.com/documentation/server/current/install/deployment-azure.html)
 
 ## GitHub
-
-### Latest
 * https://github.com/couchbase-partners/couchbase-azure-resource-manager
 
 ### Older
