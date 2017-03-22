@@ -1,7 +1,7 @@
 # Microsoft Azure
 
 * [Landing Page](https://www.couchbase.com/partners/microsoft-azure)
-* Documentation - [Azure Marketplace](https://developer.couchbase.com/documentation/server/current/install/deployment-azure.html)
+* [Documentation](https://developer.couchbase.com/documentation/server/current/install/deployment-azure.html)
 
 ## GitHub
 
