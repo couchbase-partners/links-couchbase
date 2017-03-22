@@ -26,6 +26,7 @@
 * [Couchbase and Xamarin Announce General Availability of Couchbase Lite for .NET](https://www.couchbase.com/press-releases/couchbase-and-xamarin-announce-general-availability-couchbase-lite-net)
 
 ## Blog Posts and Community Content
+* 2017 - [Kubernetes Cluster on Azure and Expose Couchbase Service](https://blog.couchbase.com/kubernetes-cluster-azure-couchbase-service/)
 * 2016 - [Microsoft and Couchbase Partnership](https://www.slideshare.net/IdanTohami/microsoft-azure-and-couchbase)
 * 2016 - [Couchbase Server on Microsoft Azure](https://www.youtube.com/watch?v=9sjRmdoatt4)
 * 2016 - Couchbase Connect - [Deploying Couchbase Server on Microsoft Azure Cloud](https://www.slideshare.net/Couchbase/deploying-couchbase-server-on-microsoft-azure-cloud-68920937)
