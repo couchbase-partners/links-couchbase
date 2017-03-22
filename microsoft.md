@@ -5,10 +5,10 @@
 
 ## GitHub
 
-### Current
+### Latest
 * https://github.com/couchbase-partners/couchbase-azure-resource-manager
 
-### Deprecated (and soon to be removed)
+### Older
 * https://github.com/couchbase/integration/tree/master/Microsoft
 * https://github.com/couchbaselabs/couchbase-azure
 * https://github.com/Azure/azure-quickstart-templates/tree/master/couchbase-on-ubuntu
