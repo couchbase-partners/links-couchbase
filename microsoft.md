@@ -30,9 +30,9 @@
 ## Blog Posts and Community Content
 * 2016 - [Microsoft and Couchbase Partnership](https://www.slideshare.net/IdanTohami/microsoft-azure-and-couchbase)
 * 2016 - [Couchbase Server on Microsoft Azure](https://www.youtube.com/watch?v=9sjRmdoatt4)
-* 2016 - [Deploying Couchbase Server on Microsoft Azure Cloud – Couchbase Connect 2016](https://www.slideshare.net/Couchbase/deploying-couchbase-server-on-microsoft-azure-cloud-68920937)
-* 2015 - [Hosting Couchbase Server in Windows Azure (Part 1)](http://blog.couchbase.com/hosting-couchbase-server-in-windows-azure-part-1)
+* 2016 - Couchbase Connect - [Deploying Couchbase Server on Microsoft Azure Cloud](https://www.slideshare.net/Couchbase/deploying-couchbase-server-on-microsoft-azure-cloud-68920937)
+* 2015 - Couchbase Blog - [Hosting Couchbase Server in Windows Azure (Part 1)](http://blog.couchbase.com/hosting-couchbase-server-in-windows-azure-part-1)
 * 2015 - [How To Install Couchbase In Microsoft Azure For Test Purposes](http://geekswithblogs.net/hroggero/archive/2015/10/05/how-to-install-couchbase-in-microsoft-azure-for-test-purposes.aspx)
 * 2014 - Channel 9 - [Couchbase Server on Microsoft Azure](http://channel9.msdn.com/Shows/Data-Exposed/Couchbase-Server-on-Microsoft-Azure)
-* 2014 - [Step by Step: Deploying Couchbase on Windows Azure Virtual Machines](http://blog.couchbase.com/step-step-production-deployment-couchbase-windows-azure-virtual-machines)
-* 2012 - [Couchbase on Azure: A Tour of New Windows Azure Features](https://blogs.msdn.microsoft.com/jimoneil/2012/06/19/couchbase-on-azure-a-tour-of-new-windows-azure-features/)
+* 2014 - Couchbase Blog - [Step by Step: Deploying Couchbase on Windows Azure Virtual Machines](http://blog.couchbase.com/step-step-production-deployment-couchbase-windows-azure-virtual-machines)
+* 2012 - MSDN Blog - [Couchbase on Azure: A Tour of New Windows Azure Features](https://blogs.msdn.microsoft.com/jimoneil/2012/06/19/couchbase-on-azure-a-tour-of-new-windows-azure-features/)
