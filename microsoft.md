@@ -5,12 +5,11 @@
 
 ## GitHub
 * https://github.com/couchbase-partners/couchbase-azure-resource-manager
+* https://github.com/Azure/azure-quickstart-templates/tree/master/couchbase
 
 ### Older
 * https://github.com/couchbase/integration/tree/master/Microsoft
 * https://github.com/couchbaselabs/couchbase-azure
-* https://github.com/Azure/azure-quickstart-templates/tree/master/couchbase-on-ubuntu
-* https://github.com/Azure/azure-quickstart-templates/tree/master/couchbase-ansible
 
 ## Azure Marketplace Offers
 * [Couchbase Server Enterprise Edition v4.6.0](https://azure.microsoft.com/en-us/marketplace/partners/couchbase/couchbase-server-40-enterprise/)
