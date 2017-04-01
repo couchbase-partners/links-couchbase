@@ -3,6 +3,10 @@
 * [Landing Page](https://www.couchbase.com/partners/microsoft-azure)
 * [Documentation](https://developer.couchbase.com/documentation/server/current/install/deployment-azure.html)
 
+## Azure Marketplace
+* [Couchbase Enterprise](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/couchbase.couchbase-enterprise)
+* [Couchbase Sync Gateway Enterprise Edition v1.3.0](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/couchbase.couchbase-syncgateway-12-enterprise)
+
 ## GitHub
 * https://github.com/couchbase-partners/couchbase-azure-resource-manager
 * https://github.com/Azure/azure-quickstart-templates/tree/master/couchbase
@@ -10,12 +14,6 @@
 ### Older
 * https://github.com/couchbase/integration/tree/master/Microsoft
 * https://github.com/couchbaselabs/couchbase-azure
-
-## Azure Marketplace Offers
-* [Couchbase Server Enterprise Edition v4.6.0](https://azure.microsoft.com/en-us/marketplace/partners/couchbase/couchbase-server-40-enterprise/)
-* [Couchbase Server Community Edition v4.5.0](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/couchbase.couchbase-server-40-community)
-* [Couchbase Sync Gateway Enterprise Edition v1.3.0](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/couchbase.couchbase-syncgateway-12-enterprise)
-* [Couchbase Server Enterprise Edition v4.5.1 Gov](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/couchbase.couchbase-server-45-enterprise-gov)
 
 ## Whitepapers and Webinars
 * [Best Practices for Configuring & Running Couchbase Server on Azure](http://info.couchbase.com/Couchbase_Server_On_Azure.html)
