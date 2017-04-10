@@ -60,3 +60,14 @@
 * 2016 - Couchbase Blog - [Couchbase with Windows and .NET – Part 3 – ASP.NET MVC](https://blog.couchbase.com/couchbase-with-windows-and-net-part-3-asp-net-mvc/)
 * 2016 - Couchbase Blog - [Couchbase with Windows and .NET – Part 2](https://blog.couchbase.com/couchbase-with-windows-and-net-part-2/)
 * 2016 - Couchbase Blog - [Couchbase with Windows and .NET – Part 1 – Setup](https://blog.couchbase.com/couchbase-with-windows-and-net-part-1/)
+
+# Xamarin
+
+*	Landing Page - https://www.couchbase.com/partners/xamarin
+*	Press Release - https://www.couchbase.com/press-releases/couchbase-and-xamarin-announce-general-availability-couchbase-lite-net
+*	https://components.xamarin.com/gettingstarted/couchbase-lite-net
+*	https://components.xamarin.com/view/couchbase-lite-net
+*	https://blog.couchbase.com/couchbase-mobile-xamarin-evolve/
+*	https://www.couchbase.com/press-releases/couchbase-and-xamarin-announce-general-availability-couchbase-lite-net
+*	https://blog.couchbase.com/build-mobile-apps-with-xamarin-and-couchbase-mobile/
+https://www.couchbase.com/nosql-resources/presentations/offline-first-and-how-ge-integrated-couchbase-mobile-in-less-than-90-days.html
