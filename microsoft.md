@@ -2,6 +2,7 @@
 
 * [Landing Page](https://www.couchbase.com/partners/microsoft-azure)
 * [Documentation](https://developer.couchbase.com/documentation/server/current/install/deployment-azure.html)
+* [Deploying Couchbase with the Azure CLI](https://youtu.be/owLGKDbatXI)
 
 ## Azure Marketplace
 * [Couchbase Enterprise](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/couchbase.couchbase-enterprise)
@@ -18,9 +19,6 @@
 ## Whitepapers and Webinars
 * [Best Practices for Configuring & Running Couchbase Server on Azure](http://info.couchbase.com/Couchbase_Server_On_Azure.html)
 * [Deploying Couchbase Server on Microsoft Azure](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&eventid=960112&sessionid=1&key=6D966C98CEE7423B9A768C2BD85565A0&sourcepage=register)
-
-## Press Releases
-* [Couchbase and Xamarin Announce General Availability of Couchbase Lite for .NET](https://www.couchbase.com/press-releases/couchbase-and-xamarin-announce-general-availability-couchbase-lite-net)
 
 ## Blog Posts and Community Content
 * 2017 - [Kubernetes Cluster on Azure and Expose Couchbase Service](https://blog.couchbase.com/kubernetes-cluster-azure-couchbase-service/)
