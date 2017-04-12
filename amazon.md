@@ -12,16 +12,16 @@
 
 ## Marketplace Offers
 * [AWS Marketplace: Couchbase](https://aws.amazon.com/marketplace/seller-profile?id=1a064a14-5ac2-4980-9167-15746aabde72)
-* [Couchbase Server Enterprise Edition (Gold)](https://aws.amazon.com/marketplace/pp/B011W4IEFU)
 * [Couchbase Server Community Edition](https://aws.amazon.com/marketplace/pp/B016CM4KP0)
-* [Couchbase Server Community Edition](https://aws.amazon.com/marketplace/pp/B01AB05G4I)
 * [Couchbase Server Enterprise Edition (Silver)](https://aws.amazon.com/marketplace/pp/B011W4I8ZG)
-* [Couchbase Server & Couchbase Sync Gateway Community Edition](https://aws.amazon.com/marketplace/pp/B013XDO1B4)
+* [Couchbase Server Enterprise Edition (Gold)](https://aws.amazon.com/marketplace/pp/B011W4IEFU)
 * [Couchbase Server & Couchbase Sync Gateway Community Edition](https://aws.amazon.com/marketplace/pp/B013XDNYRG)
-* [Couchbase Server & Couchbase Sync Gateway Enterprise Edition (Silver)](https://aws.amazon.com/marketplace/pp/B013XDD6RE?qid=1487610377931)
+* [Couchbase Server & Couchbase Sync Gateway Enterprise Edition (Silver)](https://aws.amazon.com/marketplace/pp/B013XDD6RE)
 * [Couchbase Server & Couchbase Sync Gateway Enterprise Edition (Gold)](https://aws.amazon.com/marketplace/pp/B013XDDEV2)
 
 ## Deprecated Marketplace Offers
+* [Couchbase Server Community Edition](https://aws.amazon.com/marketplace/pp/B01AB05G4I)
+* [Couchbase Server & Couchbase Sync Gateway Community Edition](https://aws.amazon.com/marketplace/pp/B013XDO1B4)
 * [Couchbase Server Community Edition](https://aws.amazon.com/marketplace/pp/B0085EC3N0)
 * [Couchbase Server - Enterprise Free](https://aws.amazon.com/marketplace/pp/B00AQ89W5K)
 
