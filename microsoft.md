@@ -1,14 +1,14 @@
 # Microsoft Azure
-
 * [Landing Page](https://www.couchbase.com/partners/microsoft-azure)
 * [Documentation](https://developer.couchbase.com/documentation/server/current/install/deployment-azure.html)
-* [Deploying Couchbase with the Azure CLI](https://youtu.be/owLGKDbatXI)
 
 ## Azure Marketplace
+* [Deploying Couchbase with Azure Marketplace](https://www.youtube.com/watch?v=z7-xfnlL7Ho)
 * [Couchbase Enterprise](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/couchbase.couchbase-enterprise)
 * [Couchbase Sync Gateway Enterprise Edition v1.3.0](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/couchbase.couchbase-syncgateway-12-enterprise)
 
 ## GitHub
+* [Deploying Couchbase with the Azure CLI](https://youtu.be/owLGKDbatXI)
 * https://github.com/couchbase-partners/couchbase-azure-resource-manager
 * https://github.com/Azure/azure-quickstart-templates/tree/master/couchbase
 
