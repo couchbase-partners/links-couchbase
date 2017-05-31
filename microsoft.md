@@ -8,11 +8,13 @@
 * [Couchbase Sync Gateway Enterprise Edition v1.3.0](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/couchbase.couchbase-syncgateway-12-enterprise)
 
 ## GitHub
+
+### Recommended
 * [Deploying Couchbase with the Azure CLI](https://youtu.be/owLGKDbatXI)
 * https://github.com/couchbase-partners/couchbase-azure-resource-manager
 * https://github.com/Azure/azure-quickstart-templates/tree/master/couchbase
 
-### Older
+### Misc
 * https://github.com/couchbase/integration/tree/master/Microsoft
 * https://github.com/couchbaselabs/couchbase-azure
 

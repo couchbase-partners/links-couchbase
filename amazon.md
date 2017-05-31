@@ -3,7 +3,7 @@
 * [Landing Page](https://www.couchbase.com/partners/amazon)
 * Documentation - [AWS Marketplace](https://developer.couchbase.com/documentation/server/current/install/deployment-aws.html)
 
-## AMI and Cloud Formation (CFn)
+## GitHub
 
 ### Recommended
 * https://github.com/couchbase-partners/couchbase-amazon-cloud-formation
@@ -27,7 +27,7 @@ a0499cad-40b3-4206-8db2-bfe5467b012d | https://aws.amazon.com/marketplace/pp/B01
 b5d84d2b-1c42-4b77-ba75-65c8c5365b69 | https://aws.amazon.com/marketplace/pp/B013XDD6RE | Couchbase Server & Couchbase Sync Gateway Enterprise Edition (Silver)
 f14beb17-4625-4a87-ba88-8adb0204cb4c | https://aws.amazon.com/marketplace/pp/B016CM4KP0 | Couchbase Server Community Edition
 
-## Sunset (de-listed) Marketplace Offers
+## Sunset Marketplace Offers
 Amazon keeps old offers around indefinitely.  These are available to customers who previously used them, but not to new customers.
 
 Product ID                           | URL                                              | Title
