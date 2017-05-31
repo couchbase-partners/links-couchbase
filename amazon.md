@@ -4,11 +4,16 @@
 * Documentation - [AWS Marketplace](https://developer.couchbase.com/documentation/server/current/install/deployment-aws.html)
 
 ## AMI and Cloud Formation (CFn)
+
+### Recommended
 * https://github.com/couchbase-partners/couchbase-amazon-cloud-formation
+* https://github.com/aws-quickstart/quickstart-couchbase
+
+### Misc
 * https://github.com/couchbase-guides/couchbase-amazon-cli
 * https://github.com/couchbase/integration/tree/master/Amazon
-* https://github.com/tleyden/build/blob/master/scripts/jenkins/mobile/ami/README-ENDUSER.md
 * https://github.com/sandipnd/couchbase-ami/
+* https://github.com/tleyden/build/blob/master/scripts/jenkins/mobile/ami/README-ENDUSER.md
 
 ## Marketplace Offers
 The main landing page on the Marketplace is here: [AWS Marketplace: Couchbase](https://aws.amazon.com/marketplace/seller-profile?id=1a064a14-5ac2-4980-9167-15746aabde72)
