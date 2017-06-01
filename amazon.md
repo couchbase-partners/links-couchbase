@@ -27,6 +27,26 @@ a0499cad-40b3-4206-8db2-bfe5467b012d | https://aws.amazon.com/marketplace/pp/B01
 b5d84d2b-1c42-4b77-ba75-65c8c5365b69 | https://aws.amazon.com/marketplace/pp/B013XDD6RE | Couchbase Server & Couchbase Sync Gateway Enterprise Edition (Silver)
 f14beb17-4625-4a87-ba88-8adb0204cb4c | https://aws.amazon.com/marketplace/pp/B016CM4KP0 | Couchbase Server Community Edition
 
+## References
+* [Viber](https://www.couchbase.com/customers/viber)
+
+## Resources
+* [Couchbase & Amazon Web Services](https://www.couchbase.com/binaries/content/assets/us/partners/aws-datasheet.pdf)
+* [Couchbase Server Now Available on Amazon Web Services Marketplace](https://www.couchbase.com/press-releases/couchbase-server-now-available-amazon-web-services-marketplace)
+* [NoSQL Database in the Cloud: Couchbase Server 2.0 on AWS](https://d0.awsstatic.com/whitepapers/aws-nosql-couchbase.pdf)
+* [Running couchbase on AWS under auto scaling](http://stackoverflow.com/questions/28397954/running-couchbase-on-aws-under-auto-scaling)
+
+## Blogs
+* [AWS IoT Button, Lambda and Couchbase](https://blog.couchbase.com/2016/december/aws-iot-button-lambda-couchbase)
+* [Serverless FaaS with AWS Lambda and Java](https://blog.couchbase.com/serverless-faas-aws-lambda-java/)
+* [Docker for AWS – Getting Started Video](https://blog.couchbase.com/docker-for-aws-getting-started-video/)
+* [Couchbase Cluster on Amazon using CLI](https://blog.couchbase.com/couchbase-cluster-amazon-using-cli/)
+* [Couchbase on Amazon Marketplace](https://blog.couchbase.com/couchbase-amazon-marketplace/)
+* [Running Couchbase on AWS – New White Paper](https://aws.amazon.com/blogs/aws/running-couchbase-on-aws-new-white-paper/)
+* [Database on Amazon: Installing Couchbase AMI on AWS](https://blog.couchbase.com/database-on-amazon-installing-couchbase-ami-on-aws/)
+* [AWS IoT Button, Lambda and Couchbase](http://blog.arungupta.me/aws-iot-button-lambda-couchbase/)
+
+
 ## Sunset Marketplace Offers
 Amazon keeps old offers around indefinitely.  These are available to customers who previously used them, but not to new customers.
 
@@ -44,19 +64,3 @@ c07cb59a-a9ab-42fb-8171-67175f30fd2d | https://aws.amazon.com/marketplace/pp/B00
 c5a30d60-7d0d-48cf-a6a5-1402220ad8a1 | https://aws.amazon.com/marketplace/pp/B013XDO1B4 | Couchbase Server & Couchbase Sync Gateway Community Edition
 de97078c-496e-4033-aae6-6afa89048e2f | https://aws.amazon.com/marketplace/pp/B00M28SG0E | Couchbase Sync Gateway Enterprise Edition (Silver)
 e70fc0f7-d48d-4d2a-b2b0-caa71a9d83b9 | https://aws.amazon.com/marketplace/pp/B00QFTBPPO | Couchbase Sync Gateway Community Edition
-
-## Resources
-* [Couchbase & Amazon Web Services](https://www.couchbase.com/binaries/content/assets/us/partners/aws-datasheet.pdf)
-* [Couchbase Server Now Available on Amazon Web Services Marketplace](https://www.couchbase.com/press-releases/couchbase-server-now-available-amazon-web-services-marketplace)
-* [NoSQL Database in the Cloud: Couchbase Server 2.0 on AWS](https://d0.awsstatic.com/whitepapers/aws-nosql-couchbase.pdf)
-* [Running couchbase on AWS under auto scaling](http://stackoverflow.com/questions/28397954/running-couchbase-on-aws-under-auto-scaling)
-
-## Blogs
-* [AWS IoT Button, Lambda and Couchbase](https://blog.couchbase.com/2016/december/aws-iot-button-lambda-couchbase)
-* [Serverless FaaS with AWS Lambda and Java](https://blog.couchbase.com/serverless-faas-aws-lambda-java/)
-* [Docker for AWS – Getting Started Video](https://blog.couchbase.com/docker-for-aws-getting-started-video/)
-* [Couchbase Cluster on Amazon using CLI](https://blog.couchbase.com/couchbase-cluster-amazon-using-cli/)
-* [Couchbase on Amazon Marketplace](https://blog.couchbase.com/couchbase-amazon-marketplace/)
-* [Running Couchbase on AWS – New White Paper](https://aws.amazon.com/blogs/aws/running-couchbase-on-aws-new-white-paper/)
-* [Database on Amazon: Installing Couchbase AMI on AWS](https://blog.couchbase.com/database-on-amazon-installing-couchbase-ami-on-aws/)
-* [AWS IoT Button, Lambda and Couchbase](http://blog.arungupta.me/aws-iot-button-lambda-couchbase/)
