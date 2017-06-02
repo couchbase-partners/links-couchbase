@@ -15,7 +15,7 @@
 ## References
 * [Amadeus](https://www.couchbase.com/customers/amadeus)
 * [SeenIt](https://www.couchbase.com/customers/seenit)
-* SeenIt - [Transforming the world of video experiences with Couchbase – Connect NY 2017](https://www.youtube.com/watch?v=CIs0VSiZE9k)
 
 ## Blogs
+* SeenIt - [Transforming the world of video experiences with Couchbase – Connect NY 2017](https://www.youtube.com/watch?v=CIs0VSiZE9k)
 * [Google Cloud and Couchbase Server: Zero to Millions of Operations in No Time](https://www.couchbase.com/nosql-resources/presentations/google-cloud-and-couchbase-server-zero-to-millions-of-operations-in-no-time.html)

@@ -43,7 +43,6 @@ Upcoming                             | Upcoming                                 
 * [Database on Amazon: Installing Couchbase AMI on AWS](https://blog.couchbase.com/database-on-amazon-installing-couchbase-ami-on-aws/)
 * [AWS IoT Button, Lambda and Couchbase](http://blog.arungupta.me/aws-iot-button-lambda-couchbase/)
 
-
 ## Sunset Marketplace Offers
 Amazon keeps old offers around indefinitely.  These are available to customers who previously used them, but not to new customers.
 
