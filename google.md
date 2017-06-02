@@ -13,6 +13,8 @@
 * https://github.com/couchbase/integration/tree/master/Google
 
 ## References
+* [Amadeus](https://www.couchbase.com/customers/amadeus)
+* [SeenIt](https://www.couchbase.com/customers/seenit)
 * SeenIt - [Transforming the world of video experiences with Couchbase – Connect NY 2017](https://www.youtube.com/watch?v=CIs0VSiZE9k)
 
 ## Blogs
