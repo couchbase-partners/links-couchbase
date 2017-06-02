@@ -21,6 +21,7 @@ The main landing page on the Marketplace is here: [AWS Marketplace: Couchbase](h
 Product ID                           | URL                                              | Title
 ------------------------------------ | ------------------------------------------------ | -----
 00f6801d-49bf-41ee-aa95-01053fcbab2f | https://aws.amazon.com/marketplace/pp/B011W4I8ZG | Couchbase Server Enterprise Edition (Silver)
+Upcoming                             | Upcoming                                         | Couchbase Sync Gateway Enterprise Edition (Silver)
 
 ## References
 * [RyanAir](https://www.couchbase.com/customers/ryanair)
