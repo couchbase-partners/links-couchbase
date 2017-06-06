@@ -3,6 +3,14 @@
 * [Landing Page](https://www.couchbase.com/partners/amazon)
 * Documentation - [AWS Marketplace](https://developer.couchbase.com/documentation/server/current/install/deployment-aws.html)
 
+## Marketplace Offers
+The main landing page on the Marketplace is here: [AWS Marketplace: Couchbase](https://aws.amazon.com/marketplace/seller-profile?id=1a064a14-5ac2-4980-9167-15746aabde72)
+
+Product ID                           | URL                                              | Title
+------------------------------------ | ------------------------------------------------ | -----
+00f6801d-49bf-41ee-aa95-01053fcbab2f | https://aws.amazon.com/marketplace/pp/B011W4I8ZG | Couchbase Server Enterprise Edition (Silver)
+Upcoming                             | Upcoming                                         | Couchbase Sync Gateway Enterprise Edition (Silver)
+
 ## GitHub
 
 ### Recommended
@@ -14,14 +22,6 @@
 * https://github.com/couchbase/integration/tree/master/Amazon
 * https://github.com/sandipnd/couchbase-ami/
 * https://github.com/tleyden/build/blob/master/scripts/jenkins/mobile/ami/README-ENDUSER.md
-
-## Marketplace Offers
-The main landing page on the Marketplace is here: [AWS Marketplace: Couchbase](https://aws.amazon.com/marketplace/seller-profile?id=1a064a14-5ac2-4980-9167-15746aabde72)
-
-Product ID                           | URL                                              | Title
------------------------------------- | ------------------------------------------------ | -----
-00f6801d-49bf-41ee-aa95-01053fcbab2f | https://aws.amazon.com/marketplace/pp/B011W4I8ZG | Couchbase Server Enterprise Edition (Silver)
-Upcoming                             | Upcoming                                         | Couchbase Sync Gateway Enterprise Edition (Silver)
 
 ## References
 * [RyanAir](https://www.couchbase.com/customers/ryanair)
@@ -46,8 +46,6 @@ Upcoming                             | Upcoming                                 
 ## Sunset Marketplace Offers
 Amazon keeps old offers around indefinitely.  These are available to customers who previously used them, but not to new customers.
 
-### Sunset in Progress
-
 Product ID                           | URL                                              | Title
 ------------------------------------ | ------------------------------------------------ | -----
 01bd1b26-b02a-482b-9553-7c3a4aff931a | https://aws.amazon.com/marketplace/pp/B013XDDEV2 | Couchbase Server & Couchbase Sync Gateway Enterprise Edition (Gold)
@@ -55,11 +53,6 @@ Product ID                           | URL                                      
 a0499cad-40b3-4206-8db2-bfe5467b012d | https://aws.amazon.com/marketplace/pp/B013XDNYRG | Couchbase Server & Couchbase Sync Gateway Community Edition
 b5d84d2b-1c42-4b77-ba75-65c8c5365b69 | https://aws.amazon.com/marketplace/pp/B013XDD6RE | Couchbase Server & Couchbase Sync Gateway Enterprise Edition (Silver)
 f14beb17-4625-4a87-ba88-8adb0204cb4c | https://aws.amazon.com/marketplace/pp/B016CM4KP0 | Couchbase Server Community Edition
-
-### Currently Sunset
-
-Product ID                           | URL                                              | Title
------------------------------------- | ------------------------------------------------ | -----
 02c955aa-420f-4d23-9936-4e9093b155c7 | https://aws.amazon.com/marketplace/pp/B013XDDBWO | Couchbase Server Enterprise Edition (Silver)
 13d73be5-0954-4d77-8575-bea04ad64b6f | https://aws.amazon.com/marketplace/pp/B00M28SIGQ | Couchbase Sync Gateway Enterprise Edition (Gold)
 18fb29ef-1fd6-4165-90fc-dfce2c516af9 | https://aws.amazon.com/marketplace/pp/B01AB05G4I | Couchbase Server Community Edition
