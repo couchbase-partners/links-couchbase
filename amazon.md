@@ -46,13 +46,21 @@ Upcoming                             | Upcoming                                 
 ## Sunset Marketplace Offers
 Amazon keeps old offers around indefinitely.  These are available to customers who previously used them, but not to new customers.
 
+### Pending Sunset
+
+Product ID                           | URL                                              | Title
+------------------------------------ | ------------------------------------------------ | -----
+581093f4-cdc5-440f-a27b-22e59141d95d | https://aws.amazon.com/marketplace/pp/B011W4IEFU | Couchbase Server Enterprise Edition (Gold)
+f14beb17-4625-4a87-ba88-8adb0204cb4c | https://aws.amazon.com/marketplace/pp/B016CM4KP0 | Couchbase Server Community Edition
+
+
+### Currently Sunset
+
 Product ID                           | URL                                              | Title
 ------------------------------------ | ------------------------------------------------ | -----
 01bd1b26-b02a-482b-9553-7c3a4aff931a | https://aws.amazon.com/marketplace/pp/B013XDDEV2 | Couchbase Server & Couchbase Sync Gateway Enterprise Edition (Gold)
-581093f4-cdc5-440f-a27b-22e59141d95d | https://aws.amazon.com/marketplace/pp/B011W4IEFU | Couchbase Server Enterprise Edition (Gold)
 a0499cad-40b3-4206-8db2-bfe5467b012d | https://aws.amazon.com/marketplace/pp/B013XDNYRG | Couchbase Server & Couchbase Sync Gateway Community Edition
 b5d84d2b-1c42-4b77-ba75-65c8c5365b69 | https://aws.amazon.com/marketplace/pp/B013XDD6RE | Couchbase Server & Couchbase Sync Gateway Enterprise Edition (Silver)
-f14beb17-4625-4a87-ba88-8adb0204cb4c | https://aws.amazon.com/marketplace/pp/B016CM4KP0 | Couchbase Server Community Edition
 02c955aa-420f-4d23-9936-4e9093b155c7 | https://aws.amazon.com/marketplace/pp/B013XDDBWO | Couchbase Server Enterprise Edition (Silver)
 13d73be5-0954-4d77-8575-bea04ad64b6f | https://aws.amazon.com/marketplace/pp/B00M28SIGQ | Couchbase Sync Gateway Enterprise Edition (Gold)
 18fb29ef-1fd6-4165-90fc-dfce2c516af9 | https://aws.amazon.com/marketplace/pp/B01AB05G4I | Couchbase Server Community Edition
