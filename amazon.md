@@ -6,8 +6,8 @@
 ## Marketplace Offers
 The main landing page on the Marketplace is here: [AWS Marketplace: Couchbase](https://aws.amazon.com/marketplace/seller-profile?id=1a064a14-5ac2-4980-9167-15746aabde72)
 
-Title | Product ID | URL
------ |----------- | ---
+Title | URL | Product ID
+----- | --- | ----------
 Couchbase Server Enterprise Edition (Silver)       | https://aws.amazon.com/marketplace/pp/B011W4I8ZG | 00f6801d-49bf-41ee-aa95-01053fcbab2f 
 Couchbase Sync Gateway Enterprise Edition (Silver) | Upcoming                                         | Upcoming 
 
