@@ -13,7 +13,6 @@ Couchbase Sync Gateway Enterprise Edition (Silver) | Upcoming                   
 x | https://aws.amazon.com/marketplace/pp/B072MNTYKC | x
 x | https://aws.amazon.com/marketplace/pp/B071JVTD7K | x
 
-
 ## GitHub
 
 ### Recommended
