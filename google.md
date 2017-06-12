@@ -13,7 +13,6 @@
 * https://github.com/couchbase/integration/tree/master/Google
 
 ## References
-* [Amadeus](https://www.couchbase.com/customers/amadeus)
 * [SeenIt](https://www.couchbase.com/customers/seenit)
 
 ## Blogs
