@@ -47,16 +47,9 @@ Couchbase Sync Gateway Enterprise Edition (Silver) | https://aws.amazon.com/mark
 ## Sunset Marketplace Offers
 Amazon keeps old offers around indefinitely.  These are available to customers who previously used them, but not to new customers.
 
-### Pending Sunset
-
 Product ID                           | URL                                              | Title
 ------------------------------------ | ------------------------------------------------ | -----
 581093f4-cdc5-440f-a27b-22e59141d95d | https://aws.amazon.com/marketplace/pp/B011W4IEFU | Couchbase Server Enterprise Edition (Gold)
-
-### Currently Sunset
-
-Product ID                           | URL                                              | Title
------------------------------------- | ------------------------------------------------ | -----
 f14beb17-4625-4a87-ba88-8adb0204cb4c | https://aws.amazon.com/marketplace/pp/B016CM4KP0 | Couchbase Server Community Edition
 01bd1b26-b02a-482b-9553-7c3a4aff931a | https://aws.amazon.com/marketplace/pp/B013XDDEV2 | Couchbase Server & Couchbase Sync Gateway Enterprise Edition (Gold)
 a0499cad-40b3-4206-8db2-bfe5467b012d | https://aws.amazon.com/marketplace/pp/B013XDNYRG | Couchbase Server & Couchbase Sync Gateway Community Edition
