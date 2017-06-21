@@ -72,3 +72,4 @@
 *	https://www.couchbase.com/press-releases/couchbase-and-xamarin-announce-general-availability-couchbase-lite-net
 *	https://blog.couchbase.com/build-mobile-apps-with-xamarin-and-couchbase-mobile/
 https://www.couchbase.com/nosql-resources/presentations/offline-first-and-how-ge-integrated-couchbase-mobile-in-less-than-90-days.html
+* Sample App - https://github.com/martinesmann/Monkies
