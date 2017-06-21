@@ -17,6 +17,7 @@
 ### Misc
 * https://github.com/couchbase/integration/tree/master/Microsoft
 * https://github.com/couchbaselabs/couchbase-azure
+* https://github.com/martinesmann/couchbase-azure
 
 ## Whitepapers and Webinars
 * [Best Practices for Configuring & Running Couchbase Server on Azure](http://info.couchbase.com/Couchbase_Server_On_Azure.html)
