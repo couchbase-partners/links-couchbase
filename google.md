@@ -11,6 +11,7 @@
 
 ### Misc
 * https://github.com/couchbase/integration/tree/master/Google
+* https://github.com/couchbaselabs/google_compute_benchmark
 
 ## References
 * [SeenIt](https://www.couchbase.com/customers/seenit)
