@@ -10,8 +10,9 @@
 * https://github.com/couchbase-partners/couchbase-google-deployment-manager
 
 ### Misc
-* https://github.com/couchbase/integration/tree/master/Google
 * https://github.com/couchbaselabs/google_compute_benchmark
+* https://github.com/couchbase/integration/tree/master/Google
+* https://github.com/couchbaselabs/integration/tree/master/Google
 
 ## References
 * [SeenIt](https://www.couchbase.com/customers/seenit)

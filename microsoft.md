@@ -15,9 +15,10 @@
 * https://github.com/Azure/azure-quickstart-templates/tree/master/couchbase
 
 ### Misc
-* https://github.com/couchbase/integration/tree/master/Microsoft
 * https://github.com/couchbaselabs/couchbase-azure
 * https://github.com/martinesmann/couchbase-azure
+* https://github.com/couchbase/integration/tree/master/Microsoft
+* https://github.com/couchbaselabs/integration/tree/master/Microsoft
 
 ## Whitepapers and Webinars
 * [Best Practices for Configuring & Running Couchbase Server on Azure](http://info.couchbase.com/Couchbase_Server_On_Azure.html)
