@@ -1,6 +1,6 @@
 # Microsoft Azure
 * [Landing Page](https://www.couchbase.com/partners/microsoft-azure)
-* [Documentation](https://developer.couchbase.com/documentation/server/current/install/deployment-azure.html)
+* [Documentation](https://developer.couchbase.com/documentation/server/current/install/deployment-azure.html) (needs updated)
 
 ## Azure Marketplace
 * [Deploying Couchbase with Azure Marketplace](https://www.youtube.com/watch?v=z7-xfnlL7Ho)
