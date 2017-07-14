@@ -5,7 +5,6 @@
 ## Azure Marketplace
 * [Deploying Couchbase with Azure Marketplace](https://www.youtube.com/watch?v=z7-xfnlL7Ho)
 * [Couchbase Enterprise](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/couchbase.couchbase-enterprise)
-* [Couchbase Sync Gateway Enterprise Edition v1.3.0](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/couchbase.couchbase-syncgateway-12-enterprise)
 
 ## GitHub
 
