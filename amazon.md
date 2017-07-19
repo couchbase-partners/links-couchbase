@@ -28,22 +28,23 @@ Couchbase Sync Gateway Enterprise Edition (Silver Support) | https://aws.amazon.
 ## References
 * [RyanAir](https://www.couchbase.com/customers/ryanair)
 * [Viber](https://www.couchbase.com/customers/viber)
+* [Gannett](https://www.couchbase.com/customers/gannett)
+* [Safety Culture](https://www.couchbase.com/customers/safetyculture)
 
 ## Resources
 * [Couchbase & Amazon Web Services](https://www.couchbase.com/binaries/content/assets/us/partners/aws-datasheet.pdf)
-* [Couchbase Server Now Available on Amazon Web Services Marketplace](https://www.couchbase.com/press-releases/couchbase-server-now-available-amazon-web-services-marketplace)
 * [NoSQL Database in the Cloud: Couchbase Server 2.0 on AWS](https://d0.awsstatic.com/whitepapers/aws-nosql-couchbase.pdf)
-* [Running couchbase on AWS under auto scaling](http://stackoverflow.com/questions/28397954/running-couchbase-on-aws-under-auto-scaling)
 
 ## Blogs
-* [AWS IoT Button, Lambda and Couchbase](https://blog.couchbase.com/2016/december/aws-iot-button-lambda-couchbase)
-* [Serverless FaaS with AWS Lambda and Java](https://blog.couchbase.com/serverless-faas-aws-lambda-java/)
-* [Docker for AWS – Getting Started Video](https://blog.couchbase.com/docker-for-aws-getting-started-video/)
-* [Couchbase Cluster on Amazon using CLI](https://blog.couchbase.com/couchbase-cluster-amazon-using-cli/)
-* [Couchbase on Amazon Marketplace](https://blog.couchbase.com/couchbase-amazon-marketplace/)
-* [Running Couchbase on AWS – New White Paper](https://aws.amazon.com/blogs/aws/running-couchbase-on-aws-new-white-paper/)
-* [Database on Amazon: Installing Couchbase AMI on AWS](https://blog.couchbase.com/database-on-amazon-installing-couchbase-ami-on-aws/)
-* [AWS IoT Button, Lambda and Couchbase](http://blog.arungupta.me/aws-iot-button-lambda-couchbase/)
+* 2017 - [Couchbase on Amazon Marketplace](https://blog.couchbase.com/couchbase-amazon-marketplace/)
+* 2017 - [Couchbase Cluster on Amazon using CLI](https://blog.couchbase.com/couchbase-cluster-amazon-using-cli/)
+* 2017 - [Docker for AWS – Getting Started Video](https://blog.couchbase.com/docker-for-aws-getting-started-video/)
+* 2017 - [Serverless FaaS with AWS Lambda and Java](https://blog.couchbase.com/serverless-faas-aws-lambda-java/)
+* 2016 - [AWS IoT Button, Lambda and Couchbase](https://blog.couchbase.com/2016/december/aws-iot-button-lambda-couchbase)
+* 2016 - [AWS IoT Button, Lambda and Couchbase](http://blog.arungupta.me/aws-iot-button-lambda-couchbase/)
+* 2015 - [Database on Amazon: Installing Couchbase AMI on AWS](https://blog.couchbase.com/database-on-amazon-installing-couchbase-ami-on-aws/)
+* 2013 - [Running Couchbase on AWS – New White Paper](https://aws.amazon.com/blogs/aws/running-couchbase-on-aws-new-white-paper/)
+* 2012 - [Couchbase Server Now Available on Amazon Web Services Marketplace](https://www.couchbase.com/press-releases/couchbase-server-now-available-amazon-web-services-marketplace)
 
 ## Sunset Marketplace Offers
 Amazon keeps old offers around indefinitely.  These are available to customers who previously used them, but not to new customers.

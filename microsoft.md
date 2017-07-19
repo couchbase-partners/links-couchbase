@@ -1,4 +1,4 @@
-# Microsoft Azure
+# Azure
 * [Landing Page](https://www.couchbase.com/partners/microsoft-azure)
 * [Documentation](https://developer.couchbase.com/documentation/server/current/install/deployment-azure.html) (needs updated)
 
