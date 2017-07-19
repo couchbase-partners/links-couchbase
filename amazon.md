@@ -1,9 +1,10 @@
 # Amazon Web Services (AWS)
 
 * [Landing Page](https://www.couchbase.com/partners/amazon)
+* [Amazon Partner Network (APN) - Couchbase](https://aws.amazon.com/partners/find/partnerdetails/?id=001E000000UfZfIIAV)
 * Documentation - [AWS Marketplace](https://developer.couchbase.com/documentation/server/current/install/deployment-aws.html)
 
-## Marketplace Offers
+## AWS Marketplace
 The main landing page on the Marketplace is here: [AWS Marketplace: Couchbase](https://aws.amazon.com/marketplace/seller-profile?id=1a064a14-5ac2-4980-9167-15746aabde72)
 
 Title | URL | Product ID
