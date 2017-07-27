@@ -36,7 +36,7 @@ Couchbase Sync Gateway Enterprise Edition (Silver Support) | https://aws.amazon.
 * [NoSQL Database in the Cloud: Couchbase Server 2.0 on AWS](https://d0.awsstatic.com/whitepapers/aws-nosql-couchbase.pdf)
 
 ## Blogs, etc.
-* 2017 - * [Deploying Couchbase with the AWS CLI and CloudFormation](https://www.youtube.com/watch?v=KpwmiRKrsfw&index=3&list=PLG3nTnYVz3nzGsaREuEjlvAKnNe4Xc-8j&t=3s)
+* 2017 - [Deploying Couchbase with the AWS CLI and CloudFormation](https://www.youtube.com/watch?v=KpwmiRKrsfw&index=3&list=PLG3nTnYVz3nzGsaREuEjlvAKnNe4Xc-8j&t=3s)
 * 2017 - [Couchbase on Amazon Marketplace](https://blog.couchbase.com/couchbase-amazon-marketplace/)
 * 2017 - [Couchbase Cluster on Amazon using CLI](https://blog.couchbase.com/couchbase-cluster-amazon-using-cli/)
 * 2017 - [Docker for AWS – Getting Started Video](https://blog.couchbase.com/docker-for-aws-getting-started-video/)
