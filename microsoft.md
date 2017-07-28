@@ -9,7 +9,7 @@
 
 ### Recommended
 * https://github.com/couchbase-partners/couchbase-azure-resource-manager
-* Best Practices - https://github.com/couchbase-partners/azure-resource-manager-couchbase/blob/master/documentation/bestPractices.md
+* [Best Practices](https://github.com/couchbase-partners/azure-resource-manager-couchbase/blob/master/documentation/bestPractices.md)
 * https://github.com/Azure/azure-quickstart-templates/tree/master/couchbase
 
 ### Misc
