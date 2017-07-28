@@ -8,6 +8,7 @@
 
 ### Recommended
 * https://github.com/couchbase-partners/couchbase-google-deployment-manager
+* Best Practices - https://github.com/couchbase-partners/google-deployment-manager-couchbase/blob/master/documentation/bestPractices.md
 
 ### Misc
 * https://github.com/couchbaselabs/google_compute_benchmark

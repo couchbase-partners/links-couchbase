@@ -16,6 +16,7 @@ Couchbase Sync Gateway Enterprise Edition (Silver Support) | https://aws.amazon.
 
 ### Recommended
 * https://github.com/couchbase-partners/couchbase-amazon-cloud-formation
+* Best Practices - https://github.com/couchbase-partners/amazon-cloud-formation-couchbase/blob/master/documentation/bestPractices.md
 * https://github.com/aws-quickstart/quickstart-couchbase
 
 ### Misc
