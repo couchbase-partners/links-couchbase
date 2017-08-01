@@ -28,6 +28,7 @@
 * 2017 - [Deploying Couchbase with Azure Marketplace v2](https://www.youtube.com/watch?v=q9mBBu0YqJI&list=PLG3nTnYVz3nzGsaREuEjlvAKnNe4Xc-8j)
 * 2017 - [Deploying Couchbase with the Azure CLI](https://youtu.be/owLGKDbatXI)
 * 2017 - [Deploying Couchbase with Azure Marketplace](https://www.youtube.com/watch?v=z7-xfnlL7Ho)
+* 2017 - [Developing Couchbase apps on Microsoft Azure – Connect NY 2017](https://www.youtube.com/watch?v=KGhfrGcz2qs)
 * 2017 - [Kubernetes Cluster on Azure and Expose Couchbase Service](https://blog.couchbase.com/kubernetes-cluster-azure-couchbase-service/)
 * 2016 - [Microsoft and Couchbase Partnership](https://www.slideshare.net/IdanTohami/microsoft-azure-and-couchbase)
 * 2016 - [Couchbase Server on Microsoft Azure](https://www.youtube.com/watch?v=9sjRmdoatt4)
