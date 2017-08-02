@@ -10,7 +10,7 @@ The main landing page on the Marketplace is here: [AWS Marketplace: Couchbase](h
 Title | URL | Product ID
 ----- | --- | ----------
 Couchbase Server Enterprise Edition (Silver Support)       | https://aws.amazon.com/marketplace/pp/B011W4I8ZG | 00f6801d-49bf-41ee-aa95-01053fcbab2f
-Couchbase Sync Gateway Enterprise Edition (Silver Support) | https://aws.amazon.com/marketplace/pp/B072MNTYKC | x
+Couchbase Sync Gateway Enterprise Edition (Silver Support) | https://aws.amazon.com/marketplace/pp/B072MNTYKC | d3b12569-02db-486f-b350-6fd819777b4f
 
 ## GitHub
 
