@@ -11,8 +11,8 @@ Title | URL | Product ID
 ----- | --- | ----------
 Couchbase Server Enterprise Edition (Hourly Pricing) | https://aws.amazon.com/marketplace/pp/B011W4I8ZG | 00f6801d-49bf-41ee-aa95-01053fcbab2f
 Couchbase Sync Gateway Enterprise Edition (Hourly Pricing) | https://aws.amazon.com/marketplace/pp/B072MNTYKC | d3b12569-02db-486f-b350-6fd819777b4f
-Couchbase Server Enterprise Edition (BYOL) | x | x
-Couchbase Sync Gateway Enterprise Edition (BYOL) | https://aws.amazon.com/marketplace/pp/B074HQYGLQ | x
+Couchbase Server Enterprise Edition (BYOL) | https://aws.amazon.com/marketplace/pp/B074MJZ1RD | x
+Couchbase Sync Gateway Enterprise Edition (BYOL) | https://aws.amazon.com/marketplace/pp/B074HQYGLQ | 611b265d-6824-4eda-b590-a1dd197f8b00
 
 ## GitHub
 
