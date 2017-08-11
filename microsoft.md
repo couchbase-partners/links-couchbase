@@ -23,6 +23,7 @@
 * [Deploying Couchbase Server on Microsoft Azure](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&eventid=960112&sessionid=1&key=6D966C98CEE7423B9A768C2BD85565A0&sourcepage=register)
 
 ## Blogs, etc.
+* 2017 - [Azure Functions with Couchbase Server](https://blog.couchbase.com/azure-functions-couchbase-server)
 * 2017 - [Scaling Couchbase on Azure](https://www.youtube.com/watch?v=LAHc-FI95Ww&index=4&list=PLG3nTnYVz3nzGsaREuEjlvAKnNe4Xc-8j&t=14s)
 * 2017 - [Deploying Couchbase with the Azure CLI v2](https://www.youtube.com/watch?v=c7G-o36q8tA&index=2&list=PLG3nTnYVz3nzGsaREuEjlvAKnNe4Xc-8j&t=2s)
 * 2017 - [Deploying Couchbase with Azure Marketplace v2](https://www.youtube.com/watch?v=q9mBBu0YqJI&list=PLG3nTnYVz3nzGsaREuEjlvAKnNe4Xc-8j)
