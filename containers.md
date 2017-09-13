@@ -37,5 +37,10 @@ Applications](https://blog.openshift.com/openshift-ecosystem-couchbase-openshift
 ### Github
 * https://github.com/arun-gupta/couchbase-dcos
 
+## Portworx
+
+* https://github.com/arun-gupta/couchbase-kubernetes/tree/master/cluster-petset-portworx
+* 2017 - Couchbase Blog - [Stateful Containers using Portworx and Couchbase](https://blog.couchbase.com/stateful-docker-containers-portworx-couchbase/)
+
 ## Cloud Foundry
 Service Broker - https://github.com/ssdowd/couchbasebroker
