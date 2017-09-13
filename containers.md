@@ -1,5 +1,9 @@
 # Containers
 
+## Docker
+* https://hub.docker.com/r/couchbase/
+* https://github.com/couchbase/docker
+
 ## Kubernetes
 * https://github.com/arun-gupta/couchbase-kubernetes
 * https://github.com/couchbaselabs/cb-k8s (private)
@@ -14,7 +18,8 @@ Applications](https://blog.openshift.com/openshift-ecosystem-couchbase-openshift
 * 2017 - Couchbase Blog - [Couchbase on OpenShift 3](https://blog.couchbase.com/couchbase-on-openshift-3/)
 
 ### Github
-* https://github.com/couchbase-partners/couchbase-redhat-openshift
+* OpenShift - https://github.com/couchbase-partners/couchbase-redhat-openshift
+* RHEL Dockerfile - https://github.com/couchbase-partners/redhat-openshift-couchbase-container
 * https://github.com/couchbase/integration/tree/master/Openshift
 * https://github.com/couchbaselabs/integration/tree/master/Openshift
 
