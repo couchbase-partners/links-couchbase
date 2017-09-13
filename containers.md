@@ -18,6 +18,10 @@
 * https://github.com/couchbase/integration/tree/master/Openshift
 * https://github.com/couchbaselabs/integration/tree/master/Openshift
 
+## Microsoft Azure
+* ACI - https://github.com/couchbase-partners/azure-container-instances-couchbase
+* ACS - https://github.com/rafaelgodinho/couchbase-acs
+
 ## Mesosphere, Mesos and DC/OS
 * https://blog.couchbase.com/service-discovery-java-database-dcos/
 * https://blog.couchbase.com/couchbase-mesos-dcos-amazon/
