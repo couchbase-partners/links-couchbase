@@ -69,6 +69,10 @@
 * 2016 - Couchbase Blog - [Couchbase with Windows and .NET – Part 2](https://blog.couchbase.com/couchbase-with-windows-and-net-part-2/)
 * 2016 - Couchbase Blog - [Couchbase with Windows and .NET – Part 1 – Setup](https://blog.couchbase.com/couchbase-with-windows-and-net-part-1/)
 
+# Power BI
+
+* 2017 - Couchbase Blog - [PowerBI & Couchbase Server 4 – Reporting over JSON Data with native connectivity through N1QL REST API](https://blog.couchbase.com/powerbi-and-couchbase-server-4-with-n1ql-reporting-over-json-data-with-native-connectivity-through-n1ql/)
+
 # Xamarin
 
 *	Landing Page - https://www.couchbase.com/partners/xamarin
