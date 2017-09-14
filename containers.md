@@ -1,6 +1,5 @@
 # Containers
-
-https://www.couchbase.com/containers
+* https://www.couchbase.com/containers
 
 ## Docker
 * https://hub.docker.com/r/couchbase/
