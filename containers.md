@@ -8,6 +8,7 @@
 ## Kubernetes
 * https://github.com/arun-gupta/couchbase-kubernetes
 * https://github.com/couchbaselabs/cb-k8s (private)
+* https://github.com/couchbaselabs/cb-rh-os3 (private)
 
 ## Redhat
 
