@@ -1,8 +1,9 @@
 # Google Cloud Platform (GCP)
 
 ## Cloud Launcher
-* [Couchbase Server Enterprise Edition (Silver)](https://console.cloud.google.com/launcher/details/couchbase-public/couchbase-server-enterprise-edition-silver)
-* [Couchbase Server Enterprise Edition (Gold)](https://console.cloud.google.com/launcher/details/couchbase-public/couchbase-server-enterprise-edition-gold)
+* [Couchbase](https://console.cloud.google.com/launcher/partners/couchbase-public)
+* [Couchbase Enterprise Edition](https://console.cloud.google.com/launcher/details/couchbase-public/couchbase-enterprise-edition)
+* [Couchbase Enterprise Edition (BYOL)](https://console.cloud.google.com/launcher/details/couchbase-public/couchbase-enterprise-edition-byol)
 
 ## GitHub
 
